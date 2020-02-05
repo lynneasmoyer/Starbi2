@@ -1,0 +1,15 @@
+<h1>Play Starbi!</h1>
+<script src="~/Build/UnityLoader.js"></script>
+<script src="~/TemplateData/UnityProgress.js"></script>
+<script>
+    var gameInstance = UnityLoader.instantiate("gameContainer", "../Build/starbiLink.json", {onProgress: UnityProgress});
+</script>
+<div class="webgl-content">
+    <div id="gameContainer" style="width: 100%; height: 600px"></div>
+    <div class="footer">
+        <div class="webgl-logo"></div>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
+        <div class="title">Starbi</div>
+    </div>
+
+</div>

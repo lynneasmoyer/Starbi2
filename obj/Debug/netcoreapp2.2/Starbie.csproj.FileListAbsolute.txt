@@ -1,0 +1,66 @@
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.deps.json
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.runtimeconfig.json
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.runtimeconfig.dev.json
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.dll
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.pdb
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.Views.dll
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/bin/Debug/netcoreapp2.2/Starbie.Views.pdb
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.csprojAssemblyReference.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.csproj.CoreCompileInputs.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.RazorAssemblyInfo.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.RazorAssemblyInfo.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.AssemblyInfoInputs.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.AssemblyInfo.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.TagHelpers.input.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.TagHelpers.output.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.RazorCoreGenerate.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.RazorTargetAssemblyInfo.cache
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.RazorTargetAssemblyInfo.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.Views.pdb
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.dll
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.pdb
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Starbie.csproj.CopyComplete
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Home/AboutUs.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Home/Characters.g.cshtml.cs
+/Users/lynneasmoyer/Documents/CodingDojo/C#/Starbie/obj/Debug/netcoreapp2.2/Razor/Views/Home/PlayGame.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.deps.json
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.runtimeconfig.json
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.runtimeconfig.dev.json
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.dll
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.pdb
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.Views.dll
+/Users/nadiaouzounova/Starbi 2/bin/Debug/netcoreapp2.2/Starbie.Views.pdb
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.csprojAssemblyReference.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.csproj.CoreCompileInputs.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.RazorAssemblyInfo.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.RazorAssemblyInfo.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.AssemblyInfoInputs.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.AssemblyInfo.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.TagHelpers.input.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.TagHelpers.output.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.RazorCoreGenerate.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/AboutUs.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/Characters.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/PlayGame.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.RazorTargetAssemblyInfo.cache
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.RazorTargetAssemblyInfo.cs
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.Views.pdb
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.dll
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.pdb
+/Users/nadiaouzounova/Starbi 2/obj/Debug/netcoreapp2.2/Starbie.csproj.CopyComplete
